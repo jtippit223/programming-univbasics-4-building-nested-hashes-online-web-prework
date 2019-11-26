@@ -13,7 +13,7 @@ def monopoly_with_second_tier
   # they'll guide y
   	monopoly = {
 	  :railroads => {
-	    :pieces =>
+	    :pieces => 4
 	  }
 	}
 end
